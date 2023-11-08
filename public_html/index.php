@@ -76,7 +76,7 @@
 								$_SESSION["idb"]= $row['CodBibliotecario'];
 
 								/*header("location: biblioteca/indexbibliotecario.php?id=$idb");*/
-								header("location: public_html/biblioteca/indexbibliotecario.php");
+								header("location: biblioteca/indexbibliotecario.php");
 
 							}elseif ($num_row_l > 0 ) {
 								
@@ -88,7 +88,7 @@
 								$_SESSION["idl"] = $row['CodLector'];
 
 								/*header("location: biblioteca/indexlector.php?id=$idl");*/
-								header("location: public_html/biblioteca/indexbibliotecario.php");
+								header("location: biblioteca/indexlector.php");
 
 							}else{ 
 
