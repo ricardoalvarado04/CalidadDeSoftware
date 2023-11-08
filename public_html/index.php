@@ -144,7 +144,7 @@
 		</section>
 
 		<footer>
-			<p>Proyecto Sistema de Busqueda Bibliotecaria © | Diseño Orientado a Objetos UCC 2020</p>
+			<p>Biblioteca El Imperial © | Gestion y Calidad del Software - UCC 2023</p>
 		</footer>
 		
 	</div>

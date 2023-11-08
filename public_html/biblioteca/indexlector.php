@@ -195,7 +195,7 @@
 		</section>
 
 		<footer>
-			<p>Senati-Desarrollo de Software Ciclo V | Proyecto Sistema de Biblioteca © | SJM</p>
+			<p>Biblioteca El Imperial © | Gestion y Calidad del Software - UCC 2023</p>
 		</footer>
 		
 	</div>
