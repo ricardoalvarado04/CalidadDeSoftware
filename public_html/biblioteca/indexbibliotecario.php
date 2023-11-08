@@ -19,7 +19,7 @@
 	$carnet  = $fila['Nro_Carnet'];
 
 
-	$texto = "Bibliotecario: " .$nombre ." " .$apellidos ." | " ."Nro Carnet: " .$carnet;
+	$texto = "Bibliotecario: " .$nombre ." " .$apellidos ." | " ."Usuario: " .$carnet;
 
 ?>
 
@@ -40,10 +40,7 @@
 <script type="text/javascript" src="js/funcionesPrestamo.js"></script>
 
 	<link rel="stylesheet" href="css_l/hoja_index_bibliotecario.css">
-	<title>Sistema de Biblioteca</title>
-
-
-
+	
 </head>
 <body onload="VistaInicio()">
 	<div id="contenedor">
@@ -55,7 +52,6 @@
 			
 
 			<div id="titulo">
-				<h1>Sistema de Biblioteca</h1>
 				<h3><?php echo $texto;?></h3>
 			</div>	
 
@@ -74,9 +70,8 @@
 			<ul id="menu">
 				<li><a onclick="VistaInicio();">Inicio</a></li>
 				<li><a onclick="VistaBibliotecario();">Bibliotecarios</a></li>
-				
 				<li><a onclick="VistaLibro();">Libros</a></li>
-				
+				<li><a onclick="VistaLector();">Lectores</a></li>
 				<li><a href="../index.php">Salir</a></li>
 			</ul>
 

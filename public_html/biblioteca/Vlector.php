@@ -54,7 +54,7 @@
 					</div>
 				</div>
 				<div id="ListaLe"></div>
-				<p id="NroLectores"><?php echo "Cantidad de Letores: " .$NroLector; ?></p>
+				<p id="NroLectores"><?php echo "Cantidad de Lectores: " .$NroLector; ?></p>
 			</div>
 		</div>
 	</div>

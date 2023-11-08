@@ -48,7 +48,7 @@ include('../dbconexion.php');
 						<th>Direccion</th>
 						<th>Email</th>
 						<th>Telefono</th>
-						<th>Nro Carnet</th>
+						<th>Usuario</th>
 						<th colspan='2'>Operaciones</th>
 					</tr>
 				</theader>

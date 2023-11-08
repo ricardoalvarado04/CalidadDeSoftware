@@ -18,7 +18,7 @@
 	$carnet  = $fila['Nro_Carnet'];
 
 
-	$texto = "Lector: " .$nombre ." " .$apellidos ." | " ."Nro Carnet: " .$carnet;
+	$texto = "Lector: " .$nombre ." " .$apellidos ." | " ."Usuario: " .$carnet;
 
 
 
@@ -36,8 +36,6 @@
 	<script type="text/javascript" src="../js/funcionesLibros.js"></script>
 	<script type="text/javascript" src="js/funcionesAccionesLector.js"></script>
 	<link rel="stylesheet" href="css_l/hoja_index_lector.css">
-	<title>Sistema de Biblioteca</title>
-
 
 
 </head>

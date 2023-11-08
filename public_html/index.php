@@ -5,8 +5,6 @@
 	<script type="text/javascript" src="js/jquery.js"></script>
 	<script type="text/javascript" src="js/vistas.js"></script>
 	<link rel="stylesheet" href="css/hoja_index.css">
-	<title>Sistema de Busqueda Bibliotecaria</title>
-
 
 	<script type="text/javascript">
 
@@ -112,9 +110,7 @@
 
 		<header>
 
-			<div id="titulo">
-				<h1>Sistema de Busqueda Bibliotecaria</h1>
-			</div>	
+			
 
 			<div id="banner">
 				<div><img src="img/banner.png" width="900" height="200"></div>	
