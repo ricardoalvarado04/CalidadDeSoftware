@@ -3,18 +3,8 @@
 <head>
 	<title></title>
 
-<<<<<<< HEAD
-	<link rel="stylesheet" type="text/css" href="css/hoja_libros.css">
-<script type="text/javascript" src="js/funcionesLibros.js"></script>
-=======
-<<<<<<< HEAD
 	<link rel="stylesheet" type="text/css" href="../css/hoja_libros.css">
 <script type="text/javascript" src="../js/funcionesLibros.js"></script>
-=======
-	<link rel="stylesheet" type="text/css" href="css/hoja_libros.css">
-<script type="text/javascript" src="js/funcionesLibros.js"></script>
->>>>>>> 263eb985b785b89cf17dcb66c030e33a8aec54df
->>>>>>> fe425aa (metricas)
 </head>
 <body>
 
@@ -26,15 +16,7 @@
 
 			$.ajax({
 			data: parametros,
-<<<<<<< HEAD
-			url: 'listarlibros.php',
-=======
-<<<<<<< HEAD
 			url: '../listarlibros.php',
-=======
-			url: 'listarlibros.php',
->>>>>>> 263eb985b785b89cf17dcb66c030e33a8aec54df
->>>>>>> fe425aa (metricas)
 			type: 'POST',
 			beforeSend: function(){
 			$("#ListaLi").html("Procesando")

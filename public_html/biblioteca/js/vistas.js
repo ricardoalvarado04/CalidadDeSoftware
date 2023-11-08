@@ -1,29 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
->>>>>>> fe425aa (metricas)
-function Vistametricas(){
-	var parametros = {};
-
-	$.ajax({
-
-		data: parametros,
-		url: "Vmetrica.php",
-		type: "POST",
-		beforeSend: function(){
-			$("#contenido").html();
-		},
-		success: function(vista){
-			$("#contenido").html(vista);
-		}
-
-	});
-} 
-<<<<<<< HEAD
-=======
->>>>>>> 263eb985b785b89cf17dcb66c030e33a8aec54df
->>>>>>> fe425aa (metricas)
 
 function VistaInicio(){
 	var parametros = {};
@@ -100,33 +74,6 @@ function VistaLibro(){
 	});
 }
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
->>>>>>> fe425aa (metricas)
-function VistaLibros(){
-	var parametros = {};
-
-	$.ajax({
-
-		data: parametros,
-		url: "Vlibros.php",
-		type: "POST",
-		beforeSend: function(){
-			$("#contenido").html();
-		},
-		success: function(vista){
-			$("#contenido").html(vista);
-		}
-
-	});
-}
-
-<<<<<<< HEAD
-=======
->>>>>>> 263eb985b785b89cf17dcb66c030e33a8aec54df
->>>>>>> fe425aa (metricas)
 function VistaDetalleAutor(){
 	var parametros = {};
 
@@ -350,12 +297,4 @@ function VistaLibrosDevueltosLector(){
 		}
 
 	});
-<<<<<<< HEAD
 }
-=======
-<<<<<<< HEAD
-}
-=======
-}
->>>>>>> 263eb985b785b89cf17dcb66c030e33a8aec54df
->>>>>>> fe425aa (metricas)

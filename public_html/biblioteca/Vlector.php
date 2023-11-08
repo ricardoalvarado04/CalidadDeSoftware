@@ -54,15 +54,7 @@
 					</div>
 				</div>
 				<div id="ListaLe"></div>
-<<<<<<< HEAD
-				<p id="NroLectores"><?php echo "Cantidad de Letores: " .$NroLector; ?></p>
-=======
-<<<<<<< HEAD
 				<p id="NroLectores"><?php echo "Cantidad de Lectores: " .$NroLector; ?></p>
-=======
-				<p id="NroLectores"><?php echo "Cantidad de Letores: " .$NroLector; ?></p>
->>>>>>> 263eb985b785b89cf17dcb66c030e33a8aec54df
->>>>>>> fe425aa (metricas)
 			</div>
 		</div>
 	</div>

@@ -48,15 +48,7 @@ include('../dbconexion.php');
 						<th>Direccion</th>
 						<th>Email</th>
 						<th>Telefono</th>
-<<<<<<< HEAD
-						<th>Nro Carnet</th>
-=======
-<<<<<<< HEAD
 						<th>Usuario</th>
-=======
-						<th>Nro Carnet</th>
->>>>>>> 263eb985b785b89cf17dcb66c030e33a8aec54df
->>>>>>> fe425aa (metricas)
 						<th colspan='2'>Operaciones</th>
 					</tr>
 				</theader>
