@@ -139,6 +139,11 @@ $conn->close();
             }
         });
     </script>
+
+    <object data="../Metricas/results.txt" width="1000" height="500">
+        Metricas
+    </object>     
+
 </body>
 
 

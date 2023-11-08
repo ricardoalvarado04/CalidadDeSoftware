@@ -72,7 +72,7 @@
 				<li><a onclick="VistaBibliotecario();">Bibliotecarios</a></li>
 				<li><a onclick="VistaLibro();">Libros</a></li>
 				<li><a onclick="VistaLector();">Lectores</a></li>
-				<li><a href="http://localhost/biblioteca/biblioteca/Vmetrica.php">Métricas</a></li>
+				<li><a href="vmetrica.php">Métricas</a></li>
 				<li><a href="../index.php">Salir</a></li>
 			</ul>
 
