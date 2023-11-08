@@ -32,6 +32,8 @@
 	<meta charset="utf-8">
 	<script type="text/javascript" src="js/jquery.js"></script>
 	<script type="text/javascript" src="js/vistas.js"></script>
+	<script type="text/javascript" src="../js/vistas.js"></script>
+	<script type="text/javascript" src="../js/funcionesLibros.js"></script>
 	<script type="text/javascript" src="js/funcionesAccionesLector.js"></script>
 	<link rel="stylesheet" href="css_l/hoja_index_lector.css">
 	<title>Sistema de Biblioteca</title>
@@ -177,8 +179,8 @@
 					</ul>
 				</li>
 
-				<li><a onclick="VistaLibro();">Libros</a></li>
-				<li><a onclick="VistaLector();">Mi Cuenta</a></li>
+				<li><a onclick="VistaLibros();">Libros</a></li>
+				<!--<li><a onclick="VistaLector();">Mi Cuenta</a></li>-->
 				<li><a href="../index.php">Salir</a></li>
 			</ul>
 

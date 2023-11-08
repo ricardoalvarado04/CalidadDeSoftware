@@ -117,7 +117,7 @@
 			</div>	
 
 			<div id="banner">
-				<div><img src="img/banner.jpg" width="900" height="200"></div>	
+				<div><img src="img/banner.png" width="900" height="200"></div>	
 			</div>
 
 		</header>
