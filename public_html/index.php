@@ -5,6 +5,16 @@
 	<script type="text/javascript" src="js/jquery.js"></script>
 	<script type="text/javascript" src="js/vistas.js"></script>
 	<link rel="stylesheet" href="css/hoja_index.css">
+<<<<<<< HEAD
+	<title>Sistema de Busqueda Bibliotecaria</title>
+
+=======
+<<<<<<< HEAD
+=======
+	<title>Sistema de Busqueda Bibliotecaria</title>
+
+>>>>>>> 263eb985b785b89cf17dcb66c030e33a8aec54df
+>>>>>>> fe425aa (metricas)
 
 	<script type="text/javascript">
 
@@ -110,10 +120,25 @@
 
 		<header>
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
 			
 
 			<div id="banner">
 				<div><img src="img/banner.png" width="900" height="200"></div>	
+=======
+>>>>>>> fe425aa (metricas)
+			<div id="titulo">
+				<h1>Sistema de Busqueda Bibliotecaria</h1>
+			</div>	
+
+			<div id="banner">
+				<div><img src="img/banner.jpg" width="900" height="200"></div>	
+<<<<<<< HEAD
+=======
+>>>>>>> 263eb985b785b89cf17dcb66c030e33a8aec54df
+>>>>>>> fe425aa (metricas)
 			</div>
 
 		</header>
@@ -140,7 +165,15 @@
 		</section>
 
 		<footer>
+<<<<<<< HEAD
+			<p>Proyecto Sistema de Busqueda Bibliotecaria © | Diseño Orientado a Objetos UCC 2020</p>
+=======
+<<<<<<< HEAD
 			<p>Biblioteca El Imperial © | Gestion y Calidad del Software - UCC 2023</p>
+=======
+			<p>Proyecto Sistema de Busqueda Bibliotecaria © | Diseño Orientado a Objetos UCC 2020</p>
+>>>>>>> 263eb985b785b89cf17dcb66c030e33a8aec54df
+>>>>>>> fe425aa (metricas)
 		</footer>
 		
 	</div>

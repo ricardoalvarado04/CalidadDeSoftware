@@ -18,7 +18,15 @@
 	$carnet  = $fila['Nro_Carnet'];
 
 
+<<<<<<< HEAD
+	$texto = "Lector: " .$nombre ." " .$apellidos ." | " ."Nro Carnet: " .$carnet;
+=======
+<<<<<<< HEAD
 	$texto = "Lector: " .$nombre ." " .$apellidos ." | " ."Usuario: " .$carnet;
+=======
+	$texto = "Lector: " .$nombre ." " .$apellidos ." | " ."Nro Carnet: " .$carnet;
+>>>>>>> 263eb985b785b89cf17dcb66c030e33a8aec54df
+>>>>>>> fe425aa (metricas)
 
 
 
@@ -32,10 +40,24 @@
 	<meta charset="utf-8">
 	<script type="text/javascript" src="js/jquery.js"></script>
 	<script type="text/javascript" src="js/vistas.js"></script>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
 	<script type="text/javascript" src="../js/vistas.js"></script>
 	<script type="text/javascript" src="../js/funcionesLibros.js"></script>
 	<script type="text/javascript" src="js/funcionesAccionesLector.js"></script>
 	<link rel="stylesheet" href="css_l/hoja_index_lector.css">
+=======
+>>>>>>> fe425aa (metricas)
+	<script type="text/javascript" src="js/funcionesAccionesLector.js"></script>
+	<link rel="stylesheet" href="css_l/hoja_index_lector.css">
+	<link rel="stylesheet" href="css/hoja_index.css">
+	<title>Sistema de Biblioteca</title>
+
+<<<<<<< HEAD
+=======
+>>>>>>> 263eb985b785b89cf17dcb66c030e33a8aec54df
+>>>>>>> fe425aa (metricas)
 
 
 </head>
@@ -177,8 +199,18 @@
 					</ul>
 				</li>
 
+<<<<<<< HEAD
+				<li><a onclick="VistaLibro();">Libros</a></li>
+				<li><a onclick="VistaLector();">Mi Cuenta</a></li>
+=======
+<<<<<<< HEAD
 				<li><a onclick="VistaLibros();">Libros</a></li>
 				<!--<li><a onclick="VistaLector();">Mi Cuenta</a></li>-->
+=======
+				<li><a onclick="VistaLibro();">Libros</a></li>
+				<li><a onclick="VistaLector();">Mi Cuenta</a></li>
+>>>>>>> 263eb985b785b89cf17dcb66c030e33a8aec54df
+>>>>>>> fe425aa (metricas)
 				<li><a href="../index.php">Salir</a></li>
 			</ul>
 
@@ -195,7 +227,15 @@
 		</section>
 
 		<footer>
+<<<<<<< HEAD
+			<p>Senati-Desarrollo de Software Ciclo V | Proyecto Sistema de Biblioteca © | SJM</p>
+=======
+<<<<<<< HEAD
 			<p>Biblioteca El Imperial © | Gestion y Calidad del Software - UCC 2023</p>
+=======
+			<p>Senati-Desarrollo de Software Ciclo V | Proyecto Sistema de Biblioteca © | SJM</p>
+>>>>>>> 263eb985b785b89cf17dcb66c030e33a8aec54df
+>>>>>>> fe425aa (metricas)
 		</footer>
 		
 	</div>
